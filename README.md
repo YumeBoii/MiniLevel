@@ -1,7 +1,7 @@
 # Mini-level — Inleveren
 
 **Naam:** <!-- Colin van Tongeren -->  
-**Klas:** <!-- SD1C -->
+**Klas:** <!-- SD1C. -->
 **Datum:** <!-- 28/10/2026 -->  
 **Les:** GDV Les 6
 
